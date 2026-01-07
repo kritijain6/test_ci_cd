@@ -5,10 +5,10 @@ the RNA 3D Hub (http://rna.bgsu.edu/rna3dhub).
 
 Usage:
 python download_nrlist.py
-
+test kriti update
 """
 
-import urllib2
+import urllib2s
 
 
 # nrlist are provided at 8 resolution cutoffs
